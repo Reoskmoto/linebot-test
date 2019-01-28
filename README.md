@@ -14,4 +14,4 @@ Python,Heroku,API使用の練習のために作成しました。
 ・Atom
 
 #### 作成したサイトのサンプル
-<img src="https://i.imgur.com/sw7yQFh.jpg" width="300" height="300">
+<img src="https://i.imgur.com/sw7yQFh.jpg" width="40%" height="40%">
