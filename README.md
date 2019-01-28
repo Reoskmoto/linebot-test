@@ -12,3 +12,6 @@ Python,Heroku,API使用の練習のために作成しました。
 
 エディタ
 ・Atom
+
+#### 作成したサイトのサンプル
+<img src="https://imgur.com/a/vzmzUIy" width="300" height="300">
